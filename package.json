@@ -1,0 +1,16 @@
+{
+  "name": "pertemuan-9-view-engine",
+  "version": "1.0.0",
+  "description": "EJS Template View Engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bramsurya Johannes Paulus",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
